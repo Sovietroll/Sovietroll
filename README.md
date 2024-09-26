@@ -1,4 +1,4 @@
-<h1> Hi👋, I’m @Sovietroll</h1>
+<h1> Hi👋, I’m Nazirul</h1>
 - I'm currently working on a #project here <br/>
 - You can visit my website portfolio at https://sovietroll.github.io/nazirul-rocky/ <br/>
 - React me at @nazirulrocky@gmail or here github <br/>
