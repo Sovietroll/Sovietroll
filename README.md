@@ -5,7 +5,7 @@
 You can visit my website portfolio at https://sovietroll.github.io/nazirul-rocky/
 </p>
 
-<p>I'm currently learning PHP with Laravel</p>
+<p align='center'>I'm currently learning PHP with Laravel</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
