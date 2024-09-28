@@ -2,7 +2,7 @@
 <h3 align="center">A self-taught web developer with a passion for learning new skills and quickly adapting to emerging technologies.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sovietroll&label=Profile%20views&color=0e75b6&style=flat" alt="sovietroll" /> <br/>
-- - You can visit my website portfolio at https://sovietroll.github.io/nazirul-rocky/
+You can visit my website portfolio at https://sovietroll.github.io/nazirul-rocky/
 </p>
 
 
